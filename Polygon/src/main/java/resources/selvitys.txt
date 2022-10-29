@@ -1,0 +1,5 @@
+Piste (0,0) on monikulmion sisällä.
+Piste (-1,2) on monikulmion sisällä.
+Piste (20,20) on monikulmion ulkopuolella.
+Piste (2,1) on monikulmion ulkopuolella.
+Piste (1,1) on monikulmion viivalla.

@@ -1,0 +1,2 @@
+class TestPolygonWithoutFile extends AbstractPolygonTest {
+}
